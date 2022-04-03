@@ -1,4 +1,4 @@
-!(https://www.google.com/url?sa=i&url=https%3A%2F%2Fsixfeetup.com%2Fblog%2Fan-introduction-to-beautifulsoup&psig=AOvVaw0W8n08TC7vEAXyU_TcQppx&ust=1649041337500000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICSnuzz9vYCFQAAAAAdAAAAABAD)
+!("C:\Users\ruben\OneDrive\Imágenes\bsf4.png")
 # webscraping_projects
 in this repository I will be working and practicing with the most knonw  tools to scrape data from other websites.
 
